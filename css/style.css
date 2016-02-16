@@ -40,3 +40,12 @@ nav .brand-logo {
   color: #ffa726;
   text-decoration: underline;
 }
+
+footer.page-footer {
+  margin: 0;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: underline;
+}
